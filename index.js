@@ -1,11 +1,11 @@
 (function(){
 // Initialize firebase
   const config = {
-    apiKey: "AIzaSyCRWWPTa3oyXD8Cf-rYGBn7fO9_r-hopFo"
-    authDomain: "cuaca-8d24e.firebaseapp.com",
-    databaseURL: "https://cuaca-8d24e.firebaseio.com",
-    //projectId: "cuaca-8d24e",
-    storageBucket: "cuaca-8d24e.appspot.com",
+    apiKey: "Your project API Key From Firebase"
+    authDomain: "your-project.firebaseapp.com",
+    databaseURL: "https://your-project.firebaseio.com",
+    //projectId: "your-project",
+    storageBucket: "your-project.appspot.com",
     //messagingSenderId: "716575067735",
     //appId: "1:716575067735:web:7d7b6a0c18ecc31e"
   };
