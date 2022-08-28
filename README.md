@@ -1,4 +1,4 @@
-# WEMOS-Firebase-Blogspot
+# WEMOS-Firebase-Blogspot-WEB
 ESP8266 WEMOS D1 Mini Firebase Retrieve data to HTML Java Script
 
 1. Setup your realtime database using firebase in firebase website
